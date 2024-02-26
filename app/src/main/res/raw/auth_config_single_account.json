@@ -1,0 +1,13 @@
+{
+  "client_id" : "93634948-f09f-4075-b839-48f2ad144be4",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.example.msonedrive/UOk0rec4JkOJCm%2Bd65c%2F%2FeyO7uo%3D",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "authority_url": "https://login.microsoftonline.com/organizations"
+    }
+  ]
+}
